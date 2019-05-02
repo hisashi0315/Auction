@@ -31,6 +31,4 @@ item3 = Item.new(
   price: 18000,
   seller: "Teru",
   email: "foo@example.com",
-  image_url: "http://image.rakuten.co.jp/atmos-girls/cabinet/reebok/v47514-1.jpg"
-)
-item3.save
+  image_url: "http://image.rakuten.co.jp/atmos-girls/cabinet/r
