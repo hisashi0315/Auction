@@ -12,7 +12,7 @@ Item.create(
   price: 25000,
   seller: "Taro",
   email: "kazuma@takahashi.org",
-  image_url: "http://news.digitallab.biz/wordpress/wp-content/uploads/Nike-Air-Max-95-Neon.jpg")
+  image_url: "https://japanese-daily-life.tetsuyan01.com/wp-content/uploads/2018/05/929b07a4d76ebeffd471c6c27356ad77.jpg")
 
 # createで登録
 Item.create(

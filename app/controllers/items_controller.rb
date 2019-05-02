@@ -5,4 +5,7 @@ class ItemsController < ApplicationController
    # 取得したデータを@itemというインスタンス変数にセットする
    @item = Item.find(params[:id])
    end
+   def index
+    @Items = Item.all
+   end
 end
